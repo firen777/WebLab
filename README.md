@@ -1,4 +1,8 @@
 # Web Dev w/ VSCode
 
-I will type something worth mentioning later.
+Emmet Cheatsheet: https://docs.emmet.io/cheat-sheet/
+
+AJAX Tutorial: https://www.youtube.com/watch?v=rJesac0_Ftw
+
+Django Tutorial: https://www.youtube.com/watch?v=FNQxxpM1yOs
 
