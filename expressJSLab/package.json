@@ -1,0 +1,15 @@
+{
+  "name": "expressjslab",
+  "version": "1.0.0",
+  "description": "Lab for express.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Albert Chan",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
